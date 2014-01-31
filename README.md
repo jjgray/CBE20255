@@ -29,9 +29,6 @@ These IPython notebooks can be downloaded individually. Click on the link to ope
 ### 6. Energy Balances ###
 * [Adiabatic Flame Temperature](http://nbviewer.ipython.org/github/jckantor/CBE20255/blob/master/notebooks/Adiabatic%20Flame%20Temperature.ipynb)
 
-### 7. Projects ###
-* [West Virginia Chemical Spill](http://nbviewer.ipython.org/github/jckantor/CBE20255/blob/master/notebooks/West%20Virginia%20Chemical%20Spill.ipynb)
-
 ## Matlab Functions and Scripts ##
 These Matlab files can be downloaded individually. Click on the filename to show the Matlab file in the browser, then `Save As..` in the browser File menu to save on your computer.
 
